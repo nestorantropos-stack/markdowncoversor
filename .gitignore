@@ -1,0 +1,7 @@
+.build-deps/
+build/
+__pycache__/
+*.spec
+tests/work/
+*.zip
+portable/
